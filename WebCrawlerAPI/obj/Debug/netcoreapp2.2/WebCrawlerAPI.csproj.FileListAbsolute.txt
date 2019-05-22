@@ -1,0 +1,14 @@
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\bin\Debug\netcoreapp2.2\WebCrawlerAPI.deps.json
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\bin\Debug\netcoreapp2.2\WebCrawlerAPI.runtimeconfig.json
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\bin\Debug\netcoreapp2.2\WebCrawlerAPI.runtimeconfig.dev.json
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\bin\Debug\netcoreapp2.2\WebCrawlerAPI.dll
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.csprojAssemblyReference.cache
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.csproj.CoreCompileInputs.cache
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.RazorAssemblyInfo.cache
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.RazorAssemblyInfo.cs
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.AssemblyInfoInputs.cache
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.AssemblyInfo.cs
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.RazorTargetAssemblyInfo.cache
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\bin\Debug\netcoreapp2.2\WebCrawlerAPI.pdb
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.dll
+D:\VS_Project\WebCrawlerAPI\WebCrawlerAPI\obj\Debug\netcoreapp2.2\WebCrawlerAPI.pdb
